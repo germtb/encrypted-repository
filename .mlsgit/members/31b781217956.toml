@@ -1,0 +1,10 @@
+[member]
+name = "alice"
+public_key = """
+-----BEGIN PUBLIC KEY-----
+MCowBQYDK2VwAyEA4AyBgpTnk/YEL+svwBC7hwNXWxfnQTWC5deuLRY7JN0=
+-----END PUBLIC KEY-----
+
+"""
+joined_epoch = 0
+added_by = "self"

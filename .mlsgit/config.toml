@@ -1,0 +1,4 @@
+[mlsgit]
+version = "0.1.0"
+cipher_suite = 1
+compaction_threshold = 50
