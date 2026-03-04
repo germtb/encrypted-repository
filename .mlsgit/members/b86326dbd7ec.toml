@@ -1,9 +1,0 @@
-[member]
-name = "bob"
-public_key = """
------BEGIN PUBLIC KEY-----
-MCowBQYDK2VwAyEAnlnxAwOStE1XOROpc6brSE0Iu6Tg0D3bxyVg6vWwZjU=
------END PUBLIC KEY-----
-"""
-joined_epoch = 1
-added_by = "31b781217956"

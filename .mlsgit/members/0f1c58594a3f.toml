@@ -2,7 +2,7 @@
 name = "alice"
 public_key = """
 -----BEGIN PUBLIC KEY-----
-MCowBQYDK2VwAyEA4AyBgpTnk/YEL+svwBC7hwNXWxfnQTWC5deuLRY7JN0=
+MCowBQYDK2VwAyEATSp9VCg4WsPXdIdiBSS8cXhbI+LMkFlVFVjqBVYlfYI=
 -----END PUBLIC KEY-----
 
 """
