@@ -1,0 +1,12 @@
+[request]
+member_id = "7b9a74865470"
+name = "web3"
+public_key = """
+-----BEGIN PUBLIC KEY-----
+MCowBQYDK2VwAyEAqR+C/hfIm4mtlz9MQh86H2+6KS0HSmBTugUmRI8X7Hc=
+-----END PUBLIC KEY-----
+"""
+keypackage = """
+eyJpZGVudGl0eSI6ImQyVmlNdz09Iiwic2lnX3B1YiI6IlR4aXBGUGNGR1BkQVlJamdPVFZ6cFFnS09TdHFXbFZ5Y0NnL0QvRVY4RmM9IiwiaW5pdF9wdWIiOiI5Rk5EcUVTN0VmbzVNTkRSa0I0ZncyT3lDSk9NV1Uzc3dycW5XdmZuSmhvPSJ9
+"""
+timestamp = 1772666720
