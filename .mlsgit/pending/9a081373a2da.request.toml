@@ -1,0 +1,12 @@
+[request]
+member_id = "9a081373a2da"
+name = "web"
+public_key = """
+-----BEGIN PUBLIC KEY-----
+MCowBQYDK2VwAyEAPlBSAxYUN/frbeReGEhn4fEuXcsVJIESm4Gem27gUW0=
+-----END PUBLIC KEY-----
+"""
+keypackage = """
+eyJpZGVudGl0eSI6ImQyVmkiLCJzaWdfcHViIjoicGxqRXZyYWEzZjFZNnhoZHhrMFRKb0xxdEd2c3hDdWhCTEpMRERpUjZUST0iLCJpbml0X3B1YiI6ImpvdkZBLzRGWUhFZTJBMWZCQngrVlZmdmVuOGErZkxqUU95ckxCcHcvd2c9In0=
+"""
+timestamp = 1772665373
